@@ -17,3 +17,5 @@ img {
 }
 
 /* Change the font-family of your list */
+
+ul {font-family: Verdana, Geneva, Tahoma, sans-serif;}
